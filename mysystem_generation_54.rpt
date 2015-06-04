@@ -1,0 +1,51 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: ip-generate --project-directory=/home/tck999/Desktop/CameraClean/ --output-directory=/home/tck999/Desktop/CameraClean/mysystem/ --report-file=bsf:/home/tck999/Desktop/CameraClean/mysystem.bsf --system-info=DEVICE_FAMILY="Cyclone V" --system-info=DEVICE=5CSEMA5F31C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=/home/tck999/Desktop/CameraClean/mysystem.qsys
+Progress: Loading CameraClean/mysystem.qsys
+Progress: Reading input file
+Progress: Adding arm_a9_hps [altera_hps 13.1]
+Progress: Parameterizing module arm_a9_hps
+Progress: Adding pio0 [altera_avalon_pio 13.1]
+Progress: Parameterizing module pio0
+Progress: Adding jtag_uart [altera_avalon_jtag_uart 13.1]
+Progress: Parameterizing module jtag_uart
+Progress: Adding Onchip_SRAM [altera_avalon_onchip_memory2 13.1]
+Progress: Parameterizing module Onchip_SRAM
+Progress: Adding clk_0 [clock_source 13.1]
+Progress: Parameterizing module clk_0
+Progress: Adding system_pll_0 [altera_pll 13.1]
+Progress: Parameterizing module system_pll_0
+Progress: Adding sdram_clk [altera_up_avalon_sys_sdram_pll 13.1]
+Progress: Parameterizing module sdram_clk
+Progress: Adding sdram_to_hps_data2 [altera_avalon_pio 13.1]
+Progress: Parameterizing module sdram_to_hps_data2
+Progress: Adding sdram_to_hps_data1 [altera_avalon_pio 13.1]
+Progress: Parameterizing module sdram_to_hps_data1
+Progress: Adding pio_start [altera_avalon_pio 13.1]
+Progress: Parameterizing module pio_start
+Progress: Adding hps_vga_data1 [altera_avalon_pio 13.1]
+Progress: Parameterizing module hps_vga_data1
+Progress: Adding hps_vga_data2 [altera_avalon_pio 13.1]
+Progress: Parameterizing module hps_vga_data2
+Progress: Adding vgaclock [altera_avalon_pio 13.1]
+Progress: Parameterizing module vgaclock
+Progress: Adding Sdram_start [altera_avalon_pio 13.1]
+Progress: Parameterizing module Sdram_start
+Progress: Adding FIFOWe [altera_avalon_pio 13.1]
+Progress: Parameterizing module FIFOWe
+Progress: Adding binaryscale [altera_avalon_pio 13.1]
+Progress: Parameterizing module binaryscale
+Progress: Adding greyparamter [altera_avalon_pio 13.1]
+Progress: Parameterizing module greyparamter
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: mysystem.pio0: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: mysystem.system_pll_0: The legal reference clock frequency is 5.0 MHz..800.0 MHz
+Info: mysystem.system_pll_0: Able to implement PLL with user settings
+Info: mysystem.sdram_to_hps_data2: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: mysystem.sdram_to_hps_data1: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: mysystem.vgaclock: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: mysystem.binaryscale: PIO inputs are not hardwired in test bench. Undefined values will be read from PIO inputs during simulation.
+Info: ip-generate succeeded.
+Info: Stopping: Create block symbol file (.bsf)

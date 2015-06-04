@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Tue May 26 16:24:29 2015
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : lab3test
+Top-level Entity Name : lab3test
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 4312
+Total pins : 229
+Total virtual pins : 0
+Total block memory bits : 194,512
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI TX Channels : 0
+Total PLLs : 2
+Total DLLs : 1

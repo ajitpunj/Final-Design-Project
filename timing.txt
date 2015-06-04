@@ -1,0 +1,15 @@
+Press 1 to start:1
+Elapsed Reading Time: 8610466 cycles
+Elapsed Image Store Time: 5147757 cycles
+Elapsed ROI Time: 460934 cycles
+digits=3
+640
+Elapsed Digit Detection Time: 16049604 cycles
+
+Press 1 to start:1
+Elapsed Reading Time: 8610328 cycles
+Elapsed Image Store Time: 5148057 cycles
+Elapsed ROI Time: 942976 cycles
+digits=5
+13481
+Elapsed Digit Detection Time: 27105359 cycles
